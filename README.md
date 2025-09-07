@@ -41,10 +41,6 @@ To get started with the assignments:
    ```bash
     cd 6373896_Cognizant_DN4.0/week1
    ```
-
-cd 6373896_Cognizant_DN4.0/week1
-
-
 ---
 
 ## 💻 Prerequisites
