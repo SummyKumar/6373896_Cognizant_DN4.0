@@ -30,8 +30,6 @@ The repository is organized into weekly folders, each with assignments and resou
 
 ## 🚀 Getting Started
 
-To get started with the assignments:
-## 🏁 Getting Started
 
 1. **Clone the repository:**
    ```bash
