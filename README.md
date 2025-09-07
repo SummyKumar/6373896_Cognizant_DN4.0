@@ -8,13 +8,14 @@ This repository contains a curated collection of weekly assignments and resource
 
 The repository is organized into weekly folders, each with assignments and resources for a specific, progressive focus:
 
-- **Week 1:** Introduction to Java and basic programming concepts
-- **Week 2:** Object-Oriented Programming (OOP) principles in Java
-- **Week 3:** Data structures and algorithms
-- **Week 4:** Database management and SQL
-- **Week 5:** Microservices with API Gateway
-- **Week 6:** Spring Boot and RESTful services
-- **Week 7:** Frontend development with Angular
+- **Week 1:** Design Patterns and Principle & DS
+- **Week 2:** PLSQL & JUnit_Basic Testing
+- **Week 3:** Spring Corr and Maven, Spring Data JPA with Spring boot,Hibernate
+- **Week 4:** Spring REST using Spring Boot 3
+- **Week 5:** Micro-services with Spring Boot 3 and Spring CLoud
+- **Week 6:** React
+- **Week 7:** React
+- **Week 8:** GIT
 
 ---
 
@@ -22,9 +23,10 @@ The repository is organized into weekly folders, each with assignments and resou
 
 - **Java:** Core programming and object-oriented principles
 - **Spring Boot:** RESTful APIs and microservices architecture
-- **Angular:** Modern front-end development for dynamic web apps
-- **SQL:** Database design and query optimization
+- **React:** Modern front-end development for dynamic web apps
+- **PL/SQL:** Database design and query optimization
 - **API Gateway:** Managing microservices communication
+- **GIT:** Understanding GIT commands
 
 ---
 
