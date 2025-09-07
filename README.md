@@ -31,12 +31,19 @@ The repository is organized into weekly folders, each with assignments and resou
 ## 🚀 Getting Started
 
 To get started with the assignments:
+## 🏁 Getting Started
 
 1. **Clone the repository:**
-git clone https://github.com/SummyKumar/6373896_Cognizant_DN4.0.git
+   ```bash
+   git clone https://github.com/SummyKumar/6373896_Cognizant_DN4.0.git
+   ```
 2. **Navigate to the desired week's folder:**
+   ```bash
+    cd 6373896_Cognizant_DN4.0/week1
+   ```
+
 cd 6373896_Cognizant_DN4.0/week1
-3. **Follow the instructions in each week's folder to complete the assignments.**
+
 
 ---
 
